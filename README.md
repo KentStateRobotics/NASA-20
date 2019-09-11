@@ -1,6 +1,7 @@
 # NASA-20
 Mechanical Drawings for NASA RMC Robot 2020
 
+MOTORS
 
 Rick Motors
 https://catalog.orientalmotor.com/item/blh-series-brushless-dc-motor-speed-control/15w-blh-brushless-dc-motor-speed-control/blhm015k-100-blh2d15-k
