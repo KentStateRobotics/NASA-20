@@ -13,7 +13,7 @@ https://catalog.orientalmotor.com/item/blh-series-brushless-dc-motor-speed-contr
 2018 Motors
 https://www.superdroidrobots.com/shop/item.aspx/ig52-04-24vdc-044-rpm-gear-motor-with-encoder/1705/
 
-28 W
+28 W\n
 44 rpm
 6.1 n-m
 1587 g
