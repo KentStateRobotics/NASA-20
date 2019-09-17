@@ -24,3 +24,4 @@ https://www.superdroidrobots.com/shop/item.aspx/ig52-04-24vdc-044-rpm-gear-motor
 6.1 n-m
 
 1587 g
+hi my name is michael 
