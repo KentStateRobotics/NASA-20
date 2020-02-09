@@ -1,0 +1,7 @@
+Arduino Mega- 5 V
+
+Jetson Nano- 5 V
+
+Motor Controllers- 24 V
+
+LEDs- 12 V
